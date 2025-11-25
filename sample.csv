@@ -1,0 +1,6 @@
+Customer Ref,Customer Name,Address Line 1,Address Line 2,Town,County,Country,Postcode
+CUST001,John Smith,123 Elm Street,Apt 4,Springfield,Illinois,USA,62704
+CUST002,Jane Doe,456 Oak Avenue,Suite 12,Liverpool,Merseyside,UK,L1 4AB
+CUST003,Acme Corp,789 Pine Road,Building 5,Manchester,Greater Manchester,UK,M1 2XY
+CUST004,Beta Ltd,321 Maple Lane,Building 5,Leeds,West Yorkshire,UK,LS1 3GH
+CUST005,Omega Inc,654 Cedar Blvd,Floor 2,Berlin,,Germany,10115
