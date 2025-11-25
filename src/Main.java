@@ -63,11 +63,6 @@ public class Main {
                 .POST(HttpRequest.BodyPublishers.ofString(json))
                 .build();
 
-        HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
-
-        // Better logging needed
-        System.out.println(response.statusCode());
-        System.out.println(response.body());
-        return response;
+        return client.send(request, HttpResponse.BodyHandlers.ofString());
     }
 }
